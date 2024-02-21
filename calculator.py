@@ -17,7 +17,7 @@ calci=cali()
 num1=int(input("Enter the first number\t"))
 num2=int(input("Enter the second number\t"))
 
-print("1.ADD \n 2.MULTIOLY \n 3.SUBTRACT \n 4.DIV \n")
+print(" 1.ADD \n 2.MULTIOLY \n 3.SUBTRACT \n 4.DIV \n")
 c=int(input("ENTER THE NUMBER\t"))
 
 if(c==1):
@@ -31,19 +31,3 @@ elif(c==4):
       calci.devide(num1,num2)
 else:
      print("Invailed")      
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
- 
-
