@@ -16,9 +16,6 @@
 
 class car:
     def __init__(self,n,p,c):
-
-
-
         self.name=n
         self.price=p
         self.color=c
